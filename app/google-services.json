@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "883199908276",
+    "project_id": "spring-boot-oauth2-177600"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883199908276:android:581fbc7afbae5f79",
+        "android_client_info": {
+          "package_name": "com.jos.dem.oauth2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883199908276-ae0e7p7mms0pjv43ek2te85hhvstj45n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jos.dem.oauth2",
+            "certificate_hash": "654798a4f43f861a9df5995a5223730e7eaafbda"
+          }
+        },
+        {
+          "client_id": "883199908276-opb02ale0amjvs97pe1oapikdfenmkvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtntCgGTdKfez4CaQfR_FkLYMAwI6sUIc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
